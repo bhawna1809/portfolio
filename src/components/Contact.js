@@ -6,23 +6,23 @@ export default function Contact() {
             <h2 className="text-5xl font-bold text-blue-500 text-center">
                 Contact
             </h2>
-            <div className="  flex gap-5 justify-center 
+            <div className=" gap-5 justify-center 
                         my-10">
             
                     <div > 
-                    <span className="font-bold mr-[6px]">Mobile Number:   </span>
-                    <a href=" your number" target="_blank" className="text-blue-800"> your number
+                    <span className="font-bold">Mobile Number:   </span>
+                    <a href="tel:+918853625286" target="_blank" className="text-blue-800">+91 8853625286
                      </a> </div>
                
                    <div > 
-                    <span className="font-bold mr-[6px]">Email address: </span>
-                    <a href=" your email" target="_blank" className="text-blue-800">
-                  your email  </a></div> 
+                    <span className="font-bold">Email address: </span>
+                    <a href="mailto:bhawnatekwani313@gmail.com?subject=Hello&body=Message" target="_blank" className="text-blue-800">
+                    bhawnatekwani313@gmail.com </a></div> 
 
                     <div> 
-                    <span className="font-bold mr-[6px]">LinkedIn: </span>
+                    <span className="font-bold">LinkedIn: </span>
 
-                    <a href="linkedin" target="_blank" className="text-blue-800">linkedin</a>
+                    <a href="https://www.linkedin.com/in/bhawna-tekwani" target="_blank" className="text-blue-800">Bhawna Tekwani</a>
                     </div> 
                     
             </div>

@@ -1,7 +1,7 @@
 
 export default function Footer() {
     return (
-        <section className="p-3 bg-blue-100 flex fixed bottom-0 w-full">
+        <section className="p-3 bg-blue-300 flex fixed bottom-0 w-full">
             
                 <span className="!w-[33.3%] font-bold">©Copyright 2025. All rights reserved.</span>
                 <span className="!w-[33.3%] font-bold">Made with Love, Laugh, React and Tailwind CSS.</span>
