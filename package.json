@@ -1,6 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
+  "homepage": "./",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
@@ -33,6 +34,7 @@
     ]
   },
   "devDependencies": {
-    "react-router-dom": "^7.1.1"
+    "react-router-dom": "^7.1.1",
+    "tailwindcss": "^3.4.17"
   }
 }
