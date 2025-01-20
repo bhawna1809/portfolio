@@ -2,7 +2,7 @@
 export default function Projects() {
     return (
         <section id="projects"
-                 className="my-20 w-full flex flex-col gap-5 align-center max-w-5xl mx-auto">
+                 className="my-40 w-full flex flex-col gap-5 align-center max-w-5xl mx-auto  sm:my-20">
             <h2 className="text-5xl text-blue-500 font-bold text-center">
                 Work Expierence and Projects
             </h2>
