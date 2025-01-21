@@ -18,7 +18,7 @@ export default function About() {
                 <p className="mb-5 pb-5">
                     Hello ! <br />
                     Your friendly fellow developer living in Noida, India <br/>
-                    I am a passionate and self motivated front end developer with 2.5+ years of professional experience in developing user friendly, responsive and modular applications in the IT industry. I am aspiring to explore majorly on latest front end development and cloud technologies along side technical business understanding to leverage my skills to the best while being flexible and resourceful. 
+                    I am a passionate and self motivated front end developer with 2.5+ years of professional experience in developing user friendly, responsive and modular applications in the IT industry. I am aspiring to work on latest front end development and cloud technologies alongside technical business understanding to leverage my skills to the best while being flexible and resourceful. 
                      </p> </div>
         
         </section>

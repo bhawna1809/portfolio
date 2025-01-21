@@ -42,7 +42,7 @@ export default function Navbar() {
                         <span className="text-sm sm:text-base px-2 lg:px-5 py-2 
                                       transition rounded hover:text-white 
                                       hover:bg-blue-600">
-                        Certfication
+                        Certification
                         </span></Link>
                     </li>
                     <li>
