@@ -4,7 +4,7 @@ export default function Certficates() {
       <section
                className="my-40 max-w-5xl mx-auto p-3">
           <h2 className="text-5xl font-bold text-blue-500 text-center">
-             Certfication and Achievement
+             Certification and Achievement
           </h2>
           <div className=" gap-5 justify-center flex text-center
                       my-10">
@@ -13,7 +13,7 @@ export default function Certficates() {
                     <li className="cursor-pointer px-8 py-6
                                         rounded bg-blue-200 text-m 
                                         flex 
-                                        font-bold hover:shadow-xl mb-5">AWS Cloud Certfication:{"\u00A0 \u00A0"}<i>AWS, 2024</i></li>
+                                        font-bold hover:shadow-xl mb-5">AWS Cloud Practitioner Certification:{"\u00A0 \u00A0"}<i>AWS, 2024</i></li>
                     <li className="cursor-pointer px-8 py-6
                                         rounded bg-blue-200 text-m 
                                         flex 
