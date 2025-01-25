@@ -10,22 +10,10 @@ export default function Certficates() {
                       my-10">
           
                   <ul>
-                    <li className="cursor-pointer px-8 py-6
-                                        rounded bg-blue-200 text-m 
-                                        flex 
-                                        font-bold hover:shadow-xl mb-5">AWS Cloud Practitioner Certification:{"\u00A0 \u00A0"}<i>AWS, 2024</i></li>
-                    <li className="cursor-pointer px-8 py-6
-                                        rounded bg-blue-200 text-m 
-                                        flex 
-                                        font-bold hover:shadow-xl mb-5">Employee Excellence Award Rapid Starter:{"\u00A0 \u00A0"}<i>Standard Life, 2023</i></li>
-                    <li className="cursor-pointer px-8 py-6
-                                        rounded bg-blue-200 text-m 
-                                        flex 
-                                        font-bold hover:shadow-xl mb-5">Team Performance Award:{"\u00A0 \u00A0"}<i>TCS, 2023</i></li>
-                    <li className="cursor-pointer px-8 py-6
-                                        rounded bg-blue-200 text-m 
-                                        flex 
-                                        font-bold hover:shadow-xl mb-5">Full Stack Web Developer Certificate:{"\u00A0 \u00A0"}<i>SNAR Academy, 2020</i></li>
+                    <li className="style-certificate">AWS Cloud Practitioner Certification:{"\u00A0 \u00A0"}<i>AWS, 2024</i></li>
+                    <li className="style-certificate">Employee Excellence Award Rapid Starter:{"\u00A0 \u00A0"}<i>Standard Life, 2023</i></li>
+                    <li className="style-certificate">Team Performance Award:{"\u00A0 \u00A0"}<i>TCS, 2023</i></li>
+                    <li className="style-certificate">Full Stack Web Developer Certificate:{"\u00A0 \u00A0"}<i>SNAR Academy, 2020</i></li>
                   </ul>
                   
           </div>
