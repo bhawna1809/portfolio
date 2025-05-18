@@ -1,6 +1,6 @@
 // Skills.js
 export default function Skills() {
-    const skills = ["Front end programming: HTML, CSS/SASS, JavaScript,TypeScript, AJAX and  JSPs", "Front end frameworks: React, React Native, jQuery", "Styling frameworks: Bootstrap, React Bootstrap, Tailwind CSS","Tools: Summernote, Figma, Jenkins, Fortify, AutoDeploy, Spunk and BlackDuck" , "Responsive Design: Mobile First Design, Media Queries", "Back End: Core Java, JDBC, Restful APIs and Servlets", "Databases:MySQL and OracleDB"
+    const skills = ["Front end programming: HTML, CSS/SASS, JavaScript,TypeScript, AJAX and  JSPs", "Front end frameworks: React, React Native, jQuery", "Styling frameworks: Bootstrap, React Bootstrap, Tailwind CSS","Tools: Summernote, Figma, Jenkins, Fortify, AutoDeploy, Spunk and BlackDuck" , "Responsive Design: Mobile First Design, Media Queries", "Back End: Core Java, JDBC and Restful APIs", "Databases:MySQL and OracleDB"
         ,"Testing tools: Postman, Selenium, Dev Tool, Lighthouse and SonarQube","IDE & Server: IntelliJ, Maven, VS Code, Jboss/Wildfly","Agile Methodology: SCRUM Framework and JIRA tool","Cloud Basics: Cloud deployments, Types, EC2, Amplify, RDS and IAM"];
     return (
         <section id="skills"
